@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ModelInfo>
+
+	<LODS>
+		<!-- Highest LOD -->
+		<!-- minimum display size in % (should be bounding sphere vertical screen size, sphere will often be slightly larger than you expect) -->
+		<!-- default minSize is 0 -->
+		<LOD minSize="50" ModelFile="757_EXTERIOR.gltf"/>
+	</LODS>
+	
+    <Animation name="elevator_l_percent_key" 	guid="69fced03-9a10-49a7-aa82-2b79ab5b63e0" length="100" type="Sim" typeParam2="elevator_l_percent_key" typeParam="AutoPlay" />
+    <Animation name="elevator_r_percent_key" 	guid="0484457f-9ef0-4143-9d63-178093385a94" length="100" type="Sim" typeParam2="elevator_r_percent_key" typeParam="AutoPlay" />
+
+    <Animation name="l_aileron_percent_key"     guid="bad53e9a-1958-4b22-90fe-23513d121db3" length="100" type="Sim" typeParam2="l_aileron_percent_key" typeParam="AutoPlay" />
+	<Animation name="r_aileron_percent_key"     guid="77db62be-36d4-4c03-bea7-c4cc2a224d9d" length="100" type="Sim" typeParam2="r_aileron_percent_key" typeParam="AutoPlay" />
+
+    <Animation name="rudder_percent_key" 	    guid="8562f6fa-8312-4413-a381-79c23e78ce6e" length="100" type="Sim" typeParam2="rudder_percent_key" typeParam="AutoPlay" />
+
+    <Animation name="nose_steering" 	        guid="f97735e9-da66-405a-87da-136bea059bda" length="100" type="Sim" typeParam2="nose_steering" typeParam="AutoPlay" />
+
+    <PartInfo>
+        <Name>elevator_l_percent_key</Name>
+        <AnimLength>100</AnimLength>
+        <Animation>
+            <Parameter>
+                <Sim>
+                    <Variable>ELEVATOR DEFLECTION PCT</Variable>
+                    <Units>percent</Units>
+                    <Bias>39</Bias>
+                </Sim>
+            </Parameter>
+        </Animation>
+    </PartInfo>
+    <PartInfo>
+        <Name>elevator_r_percent_key</Name>
+        <AnimLength>100</AnimLength>
+        <Animation>
+            <Parameter>
+                <Sim>
+                    <Variable>ELEVATOR DEFLECTION PCT</Variable>
+                    <Units>percent</Units>
+                    <Bias>39</Bias>
+                </Sim>
+            </Parameter>
+        </Animation>
+    </PartInfo>
+
+    <PartInfo>
+        <Name>l_aileron_percent_key</Name>
+        <AnimLength>100</AnimLength>
+        <Animation>
+            <Parameter>
+                <Sim>
+                    <Variable>AILERON LEFT DEFLECTION PCT</Variable>
+                    <Scale>-1</Scale>
+                    <Units>percent</Units>
+                    <Bias>43</Bias>
+                </Sim>
+            </Parameter>
+        </Animation>
+    </PartInfo>
+    <PartInfo>
+        <Name>r_aileron_percent_key</Name>
+        <AnimLength>100</AnimLength>
+        <Animation>
+            <Parameter>
+                <Sim>
+                    <Variable>AILERON RIGHT DEFLECTION PCT</Variable>
+                    <Scale>1</Scale>
+                    <Units>percent</Units>
+                    <Bias>43</Bias>
+                </Sim>
+            </Parameter>
+        </Animation>
+    </PartInfo>
+    <PartInfo>
+        <Name>rudder_percent_key</Name>
+        <AnimLength>100</AnimLength>
+        <Animation>
+            <Parameter>
+                <Sim>
+                    <Variable>RUDDER DEFLECTION PCT</Variable>
+                    <Units>percent</Units>
+                    <Bias>50</Bias>
+                </Sim>
+            </Parameter>
+        </Animation>
+    </PartInfo>
+    <PartInfo>
+        <Name>nose_steering</Name>
+        <AnimLength>100</AnimLength>
+        <Animation>
+            <Parameter>
+                <Sim>
+                    <Variable>RUDDER DEFLECTION PCT</Variable>
+                    <Units>percent</Units>
+                    <Bias>50</Bias>
+                </Sim>
+            </Parameter>
+        </Animation>
+    </PartInfo>
+</ModelInfo>

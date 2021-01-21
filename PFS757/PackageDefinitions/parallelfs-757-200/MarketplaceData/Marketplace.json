@@ -2,11 +2,11 @@
   "market-data": {
     "Neutral": {
       "creator": "ParallelFS",
-      "title": "ParallelFS Boeing 757-200",
+      "title": "Boeing 757-200",
       "description": "",
       "tags": "AIRCRAFT,AIRLINER",
-      "thumbnail_main": "",
-      "thumbnail_secondary": "",
+      "thumbnail_main": "1380x1302.jpg",
+      "thumbnail_secondary": "1856x485.jpg",
       "categories": "TT:MARKETPLACE.CATEGORY.AIRCRAFT\/TT:MARKETPLACE.CATEGORY.AIRCRAFT.AIRLINER",
       "media-backgrounds": [
         "placeholder3840x2160.jpg,placeholder3840x2160.jpg",
