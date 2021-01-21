@@ -53,9 +53,9 @@
             <Parameter>
                 <Sim>
                     <Variable>AILERON LEFT DEFLECTION PCT</Variable>
-                    <Scale>-1</Scale>
+                    <Scale>1</Scale>
                     <Units>percent</Units>
-                    <Bias>43</Bias>
+                    <Bias>57</Bias>
                 </Sim>
             </Parameter>
         </Animation>
@@ -69,7 +69,7 @@
                     <Variable>AILERON RIGHT DEFLECTION PCT</Variable>
                     <Scale>1</Scale>
                     <Units>percent</Units>
-                    <Bias>43</Bias>
+                    <Bias>40</Bias>
                 </Sim>
             </Parameter>
         </Animation>

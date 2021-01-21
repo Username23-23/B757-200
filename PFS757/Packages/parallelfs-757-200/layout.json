@@ -77,43 +77,43 @@
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/757_EXTERIOR.bin",
-      "size": 10430370,
-      "date": 132556627628067460
+      "size": 10021194,
+      "date": 132556637224229043
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/757_EXTERIOR.gltf",
-      "size": 120125,
-      "date": 132556627628077435
+      "size": 128803,
+      "date": 132556637224239021
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/757_INTERIOR.bin",
-      "size": 9481494,
-      "date": 132556627632319096
+      "size": 7324584,
+      "date": 132557264281588986
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/757_INTERIOR.gltf",
-      "size": 813525,
-      "date": 132556627632364025
+      "size": 516955,
+      "date": 132557264281618906
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/model.CFG",
       "size": 686,
-      "date": 132556231278123341
+      "date": 132557223447065875
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/ParallelFS_757-200PW.xml",
-      "size": 3778,
-      "date": 132556238513654036
+      "size": 3777,
+      "date": 132556636775012367
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/ParallelFS_757-200PW_INTERIOR.xml",
-      "size": 333,
-      "date": 132555740395994402
+      "size": 857,
+      "date": 132557239693476887
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/panel/panel.cfg",
-      "size": 0,
-      "date": 132516818154934779
+      "size": 174,
+      "date": 132557260150435767
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/runway.FLT",

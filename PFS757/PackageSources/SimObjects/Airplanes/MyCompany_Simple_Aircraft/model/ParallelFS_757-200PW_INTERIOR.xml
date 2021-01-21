@@ -8,5 +8,20 @@
 		<!-- default minSize is 0 -->
 		<LOD minSize="50" ModelFile="757_INTERIOR.gltf"/>
 	</LODS>
-	
+
 </ModelInfo>
+<ModelBehaviors>
+	<Include Path="Asobo\Common.xml"/>
+	<Component ID="ELECTRICAL">
+		<UseTemplate Name="ASOBO_ELECTRICAL_Switch_Battery_Master_Template">
+			<NODE_ID>btn_battery</NODE_ID>
+			<ANIM_NAME>btn_battery</ANIM_NAME>
+			<ON_TOGGLE_MASTER_BATTERY>
+				(A:ELECTRICAL MASTER BATTERY:1, Bool) (A:RECIP ENG LEFT MAGNETO:1, Bool) != if{
+					3 (&gt;K:MAGNETO1_SET)
+				}
+			</ON_TOGGLE_MASTER_BATTERY>
+		</UseTemplate>
+		<UseTemplate Name="ASOBO_ELECTRICAL_Switch_Avionics_Master_Template"/>
+	</Component>
+</ModelBehaviors>
