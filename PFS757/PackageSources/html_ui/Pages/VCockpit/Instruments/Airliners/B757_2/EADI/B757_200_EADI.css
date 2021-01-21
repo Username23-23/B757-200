@@ -1,18 +1,3 @@
-:root {
-    --bodyHeightScale: 1;
+body {
+    background-color: rgb(80, 112, 255);
 }
-
-#Electricity {
-    width: 100%;
-    height: 100%;
-    background: radial-gradient(ellipse at center, rgba(19, 20, 19, 1) 0%, rgba(15, 18, 15, 1) 100%);
-}
-#Electricity[state=off] {
-    display: none;
-}
-
-p {
-  color: white;
-}
-
-body {background-color: rgb(168, 93, 66);}

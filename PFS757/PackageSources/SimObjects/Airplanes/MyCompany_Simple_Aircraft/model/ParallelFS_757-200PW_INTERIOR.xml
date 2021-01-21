@@ -24,4 +24,19 @@
 		</UseTemplate>
 		<UseTemplate Name="ASOBO_ELECTRICAL_Switch_Avionics_Master_Template"/>
 	</Component>
+
+	<Component ID="Pedestal_Fwd">
+		<UseTemplate Name="ASOBO_ENGINE_Lever_Throttle_Template">
+			<ID>1</ID>
+			<NODE_ID>throttle_percent_key</NODE_ID>
+			<ANIM_NAME>throttle_percent_key</ANIM_NAME>
+			<!-- <NODE_ID_REVERSER>throttle_01_rear2</NODE_ID_REVERSER>
+			<ANIM_NAME_REVERSER>throttle_lever_0_rear</ANIM_NAME_REVERSER> -->
+			<DRAG_SPEED>0.1</DRAG_SPEED>
+			<LEVER_TYPE>BOEING</LEVER_TYPE>
+			<TOOLTIPID>TT:COCKPIT.TOOLTIPS.ENG1_THROTTLE_CONTROL</TOOLTIPID>
+			<INVERT_IM_DRAG_INPUT_SCALAR>True</INVERT_IM_DRAG_INPUT_SCALAR>
+			<REVERSER_INVERT_IM_DRAG_INPUT_SCALAR>True</REVERSER_INVERT_IM_DRAG_INPUT_SCALAR>
+		</UseTemplate>
+	</Component>
 </ModelBehaviors>
