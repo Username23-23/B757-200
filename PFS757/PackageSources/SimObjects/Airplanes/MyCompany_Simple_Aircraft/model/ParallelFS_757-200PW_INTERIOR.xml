@@ -12,6 +12,7 @@
 </ModelInfo>
 <ModelBehaviors>
 	<Include Path="Asobo\Common.xml"/>
+	
 	<Component ID="ELECTRICAL">
 		<UseTemplate Name="ASOBO_ELECTRICAL_Switch_Battery_Master_Template">
 			<NODE_ID>btn_battery</NODE_ID>

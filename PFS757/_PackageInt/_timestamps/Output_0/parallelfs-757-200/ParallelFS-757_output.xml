@@ -5,15 +5,17 @@
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\gameplay.cfg" Timestamp="13255733664" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\Approach.flt" Timestamp="13238652266" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\ai.cfg" Timestamp="13255733664" NbSourceFile="1"/>
+	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\TEXTURE\DECALS.PNG.DDS" Timestamp="13255761128" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\model\757_EXTERIOR.bin" Timestamp="13255663722" NbSourceFile="2"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\soundAI\MyCompany_Simple_Aircraft_AI.PC.PCK" Timestamp="13240973544" NbSourceFile="3"/>
-	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\model\757_INTERIOR.gltf" Timestamp="13255734565" NbSourceFile="2"/>
+	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\model\757_INTERIOR.gltf" Timestamp="13255761129" NbSourceFile="2"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\Final.flt" Timestamp="13238652266" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\hangar.flt" Timestamp="13238652266" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\systems.cfg" Timestamp="13255733807" NbSourceFile="1"/>
+	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\TEXTURE\DECALS.PNG.DDS.json" Timestamp="13255761128" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\soundAI\soundai.xml" Timestamp="13240973544" NbSourceFile="3"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\model\ParallelFS_757-200PW.xml" Timestamp="13255663677" NbSourceFile="1"/>
-	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\model\757_INTERIOR.bin" Timestamp="13255734565" NbSourceFile="2"/>
+	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\model\757_INTERIOR.bin" Timestamp="13255761129" NbSourceFile="2"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\panel\panel.cfg" Timestamp="13255730007" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\taxi.flt" Timestamp="13238652266" NbSourceFile="1"/>
 	<Entry Path="C:\Users\crisl\Documents\GitHub\B757-200\PFS757\Packages\parallelfs-757-200\SimObjects\Airplanes\MyCompany_Simple_Aircraft\cockpit.cfg" Timestamp="13255733664" NbSourceFile="1"/>

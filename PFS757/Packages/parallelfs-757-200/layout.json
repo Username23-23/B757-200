@@ -87,13 +87,13 @@
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/757_INTERIOR.bin",
-      "size": 7326584,
-      "date": 132557345656321038
+      "size": 9977930,
+      "date": 132557611291122949
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/757_INTERIOR.gltf",
-      "size": 516221,
-      "date": 132557345656360932
+      "size": 284986,
+      "date": 132557611291152871
     },
     {
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/model/model.CFG",
@@ -144,6 +144,16 @@
       "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/taxi.flt",
       "size": 2663,
       "date": 132386522660000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/TEXTURE/DECALS.PNG.DDS",
+      "size": 22369776,
+      "date": 132557611285562637
+    },
+    {
+      "path": "SimObjects/Airplanes/MyCompany_Simple_Aircraft/TEXTURE/DECALS.PNG.DDS.json",
+      "size": 119,
+      "date": 132557611285432981
     }
   ]
 }
