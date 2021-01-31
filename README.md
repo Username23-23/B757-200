@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for the ParallelFS 757-200, a community made 757.
 
 ## Join the ParallelFS Community
-You can follow this project and interact with the ParallelFS Community by joining the [ParallelFS Discord Server.](https://discord.gg/nGANtxDqbk)
+You can follow this project and interact with the ParallelFS Community by joining the [ParallelFS Discord Server.](https://discord.gg/QGEVx5RZYr)
 
 
 ## Installation
