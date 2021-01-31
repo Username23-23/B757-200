@@ -16,7 +16,7 @@
 	<Component ID="ELECTRICAL">
 		<UseTemplate Name="ASOBO_ELECTRICAL_Switch_Battery_Master_Template">
 			<NODE_ID>btn_battery</NODE_ID>
-			<ANIM_NAME>btn_battery</ANIM_NAME>
+			<ANIM_NAME>btn_battery_press</ANIM_NAME>
 			<ON_TOGGLE_MASTER_BATTERY>
 				(A:ELECTRICAL MASTER BATTERY:1, Bool) (A:RECIP ENG LEFT MAGNETO:1, Bool) != if{
 					3 (&gt;K:MAGNETO1_SET)
@@ -24,8 +24,20 @@
 			</ON_TOGGLE_MASTER_BATTERY>
 		</UseTemplate>
 		<UseTemplate Name="ASOBO_ELECTRICAL_Switch_Avionics_Master_Template"/>
-	</Component>
+		<UseTemplate Name="ASOBO_AUTOPILOT_Knob_Baro_Template">
+			<ANIM_NAME>SYBY_POWER</ANIM_NAME>
+			<NODE_ID>STBY_POWER</NODE_ID>
+			<ID>3</ID>
+			
+			<ANIMREF_ID>-1</ANIMREF_ID>
+			<ANIMTIP_0>TT:COCKPIT.TOOLTIPS.STBY_TUNING_KNOB_INCREASE</ANIMTIP_0>
+			<ANIMTIP_0_ON_CURSOR>TurnRight</ANIMTIP_0_ON_CURSOR>
+			<ANIMTIP_1>TT:COCKPIT.TOOLTIPS.STBY_TUNING_KNOB_DECREASE</ANIMTIP_1>
+			<ANIMTIP_1_ON_CURSOR>TurnLeft</ANIMTIP_1_ON_CURSOR>
 
+			
+		</UseTemplate>
+	</Component>
 	<Component ID="Pedestal_Fwd">
 		<UseTemplate Name="ASOBO_ENGINE_Lever_Throttle_Template">
 			<ID>1</ID>

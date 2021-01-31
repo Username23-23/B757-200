@@ -87,17 +87,4 @@
             </Parameter>
         </Animation>
     </PartInfo>
-    <PartInfo>
-        <Name>nose_steering</Name>
-        <AnimLength>100</AnimLength>
-        <Animation>
-            <Parameter>
-                <Sim>
-                    <Variable>RUDDER DEFLECTION PCT</Variable>
-                    <Units>percent</Units>
-                    <Bias>50</Bias>
-                </Sim>
-            </Parameter>
-        </Animation>
-    </PartInfo>
 </ModelInfo>
