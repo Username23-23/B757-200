@@ -1,0 +1,91 @@
+{
+  "market-data": {
+    "Neutral": {
+      "creator": "ParallelFS",
+      "title": "Boeing 757-200",
+      "description": "",
+      "tags": "AIRCRAFT,AIRLINER",
+      "thumbnail_main": "1380x1302.jpg",
+      "thumbnail_secondary": "1856x485.jpg",
+      "categories": "TT:MARKETPLACE.CATEGORY.AIRCRAFT\/TT:MARKETPLACE.CATEGORY.AIRCRAFT.AIRLINER",
+      "media-backgrounds": [],
+      "blocks": [
+        {
+          "type": "HISTORICAL-DATA",
+          "data": {
+            "text": ""
+          }
+        },
+        {
+          "type": "SPECS",
+          "data": {
+            "values": [
+              {
+                "name": "SPEED",
+                "valueStr": "Cruise: Mach 0.8, Max.: Mach 0.8"
+              },
+              {
+                "name": "CEILING",
+                "valueStr": "38,300 – 38,700 ft"
+              },
+              {
+                "name": "TYPICAL RANGE",
+                "valueStr": "7250 km \/ 3,915 nmi"
+              },
+              {
+                "name": "LENGTH",
+                "valueStr": "47,32 m (155 ft 2 in)"
+              },
+              {
+                "name": "WINGSPAN",
+                "valueStr": "38,05 m (117 ft 5 in)"
+              },
+              {
+                "name": "HEIGHT",
+                "valueStr": "13,56 m (44 ft 5 in)"
+              },
+              {
+                "name": "TAKEOFF",
+                "valueStr": "1,825 m (6000 ft)"
+              },
+              {
+                "name": "MAX WEIGHT",
+                "valueStr": "100,240 t (221,000 lb)"
+              },
+              {
+                "name": "MAX TAKEOFF WEIGHT",
+                "valueStr": "99,790 t (220,000 lb)"
+              },
+              {
+                "name": "FUEL CAPACITY",
+                "valueStr": "42,680 l (11,276 USg)"
+              },
+              {
+                "name": "ENGINE",
+                "valueStr": "PW2037 or RB211"
+              },
+              {
+                "name": "COCKPIT CREW",
+                "valueStr": "2"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LIVERIES",
+          "data": {
+            "liveries": [
+              {
+                "media": {
+                  "thumbnail": "placeholder515x290.jpg"
+                },
+                "primaryHexaColor": "#3291A8",
+                "secondaryHexaColor": "#FFFFFF"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
