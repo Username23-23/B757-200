@@ -3,42 +3,30 @@
 Welcome to the GitHub repository for the ParallelFS 757-200, a community made 757.
 
 ## Join the ParallelFS Community
-You can follow this project and interact with the ParallelFS Community by joining the [ParallelFS Discord Server.](https://discord.gg/QGEVx5RZYr)
+You can follow this project and interact with the ParallelFS community by joining the [ParallelFS Discord Server.](https://discord.gg/QGEVx5RZYr)
 
 
 ## Installation
 
-Installation is only for developers currently, just click the green 'Code' button then select 'Download Zip'
+This aircraft is not yet available for download. If you are a developer, please refer to Contributing.md
 
-## Usage
-
-The 757-200 is currently a "progressing development" which means that slowly we will begin to roll out features into a flyable branch that can be loaded into the simulator. For the time being, all files found on this page are development files.
-
-
-## Q&A
+## FAQs
 
 What Version of the 757 is this?
--The 757-200
+- This is the Boeing 757-200 Passenger. We hope to release more versions later on.
 
-Where can i download it?
--It's not released yet.
+Where can I download it?
+- The aircraft has not been released.
 
 When will it be released?
--Q2-Q3 2021 if all goes well.
+- Our goal for release is late 2021, but this is a rough estimate and could change at any time.
 
 How much will it cost?
--It's free.
+- This is a freeware project.
 
-How can i contribute to the project?
--You can do a pull request on the B757-200 Github Page.
-
-Link: https://github.com/ParallelFS-Development/B757-200
-
- 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+How can I contribute to the project?
+- Please refer to Contributing.md for more information.
 
 ## License
-[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) is used for the ParallelFS 757-200 project. 
+
+[GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/) is used for this project. 
